@@ -1,1 +1,1 @@
-#Dark Space Theme VSCode 
+Dark Theme for VS Code
